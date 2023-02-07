@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="NsHTWfukbhEVUvkgvDW2" name="Bird_1">
-        <mxGraphModel dx="382" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="391" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -26,7 +26,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Bird_2" id="KFa1Vl0rteYsN55WDy4o">
-        <mxGraphModel dx="382" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="327" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="-5oFq-kEIDPWLZI1nV-x-0"/>
                 <mxCell id="-5oFq-kEIDPWLZI1nV-x-1" parent="-5oFq-kEIDPWLZI1nV-x-0"/>
